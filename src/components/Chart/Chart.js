@@ -55,7 +55,7 @@ function Chart({data : {confirmed, recovered, deaths}, country}) {
                 }}
                 options={{
                     legend: {display: false},
-                    title: {display: true, text: 'Situation in ${country}'}
+                    title: {display: true, text: `Situation in ${country}`}
                 }}
             />
         ) : null
