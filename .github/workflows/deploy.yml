@@ -36,4 +36,4 @@ jobs:
     - name: Install Surge
       run: npm install -g surge
     - name: Deploy To Surge
-      run: surge ./build covid-19-tracker-byMustafa.surge.sh --token ${{secrets.SURGE_LOGIN}
+      run: surge ./build covid-19-tracker-byMustafa.surge.sh --token ${{secrets.SURGE_LOGIN}}
