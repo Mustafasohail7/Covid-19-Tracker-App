@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## Project is no longer alive because of end of support by the API.
 Deployed at: http://covid-19-tracker-bymustafa.surge.sh/
 
 In the project directory, you can run:
